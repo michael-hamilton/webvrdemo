@@ -1,0 +1,1 @@
+Hologram.effect.fxaa = yes
